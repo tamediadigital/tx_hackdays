@@ -1,0 +1,9 @@
+title: Tamedia Hackdays
+email: harry.fuecks@tamedia.ch
+
+markdown: kramdown
+
+category-list: [whoami, hack]
+
+plugins:
+  - jemoji
