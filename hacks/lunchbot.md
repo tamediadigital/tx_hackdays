@@ -13,4 +13,4 @@ There are many excellent and awesome people and Tamedia but how to get them meet
 Who's Participating?
 --------------------
 
-* [Harry Fuecks](/whoami/harryfuecks)
+* [Harry Fuecks](/tamedia-hackdays/whoami/harryfuecks)

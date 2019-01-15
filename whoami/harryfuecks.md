@@ -10,9 +10,9 @@ categories: [whoami]
 Harry Fuecks
 ============
 
-![harry fuecks](/whoami/pics/harryfuecks.png "Harry Fuecks"){:width="400px" align="right"}
+![harry fuecks](/tamedia-hackdays/whoami/pics/harryfuecks.png "Harry Fuecks"){:width="400px" align="right"}
 
-**Mission**: Planning to build a [Slackbot for Organising Lunch Dates](/hacks/lunchbot).
+**Mission**: Planning to build a [Slackbot for Organising Lunch Dates](/tamedia-hackdays/hacks/lunchbot).
 
 Hack-Relevant Skills
 --------------------
