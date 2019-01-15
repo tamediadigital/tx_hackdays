@@ -11,7 +11,7 @@
         {% for pc in page.categories %}
             {% if pc == "hack" %}
                 <tr>
-                    <td><a href="/tamedia-hackdays/hacks/{{ page.url }}">{{ page.hackname }}</a></td>
+                    <td><a href="/tamedia-hackdays/{{ page.url }}">{{ page.hackname }}</a></td>
                     <td>{{ page.quicksummary }}</td>
                 </tr>
             {% endif %}   <!-- cat-match-p -->
