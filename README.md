@@ -19,5 +19,7 @@
         <li>Links to other pages in the wiki should start with /tamedia-hackdays/</li>
         <li>Submit pull requests if you like to play safe and bug <a href="/tamedia-hackdays/whoami/harryfuecks">Harry</a> to merge and get the stuff published</li>
         <li>...or just push to Master if you like to live dangerously ;)</li>
+        <li>I takes about 20-30 seconds after a git push for the site to update</li>
+        <li>Use <$ bundle exec jekyll serve> to test changes locally</li>
     </ul>
 </section>
