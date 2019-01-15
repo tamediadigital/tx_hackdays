@@ -13,7 +13,7 @@
         {% for pc in page.categories %}
           {% if pc == "whoami" %}
               <tr>
-                  <td><a href="/tamedia-hackdays/{{ page.url }}">{{ page.yourname }}</a></td>
+                  <td><a href="/tamedia-hackdays{{ page.url }}">{{ page.yourname }}</a></td>
                   <td>{{ page.company }}</td>
                   <td>{{ page.role }}</td>
                   <td>{{ page.contact }}</td>
