@@ -32,6 +32,9 @@ Hack-Relevant Skills
 - Docker
 - Kubernetes
 - Vagrant
+- Quake III
+- Nintendo Switch
+- Cooking
 
 Links
 -----
