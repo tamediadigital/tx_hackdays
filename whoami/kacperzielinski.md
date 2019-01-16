@@ -32,4 +32,4 @@ Links
 -----
 - <https://github.com/kazi-ricardo>
 - <https://twitter.com/xkzielinski>
-- <www.linkedin.com/in/xkzielinski>
+- <https://www.linkedin.com/in/xkzielinski>
