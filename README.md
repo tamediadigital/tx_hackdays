@@ -14,7 +14,7 @@
     <h2 class="title tred">Step 1: Add Yourself to the Who's Who List</h2>
     <p>Get yourself listed on <a href="/tamedia-hackdays/whoami">Who am I?</a></p>
     <ol>
-        <li>Get access to this github repo - https://github.com/harryf/tamedia-hackdays/ (PM me your github account name on Slack and I'll add you)</li>
+        <li>Get access to this github repo - <a href="https://github.com/harryf/tamedia-hackdays/">https://github.com/harryf/tamedia-hackdays/</a> (PM <a href="/tamedia-hackdays/whoami/harryfuecks">me</a> your github account name on Slack and I'll add you)</li>
         <li><code>$ git clone git@github.com:harryf/tamedia-hackdays.git</code></li>
         <li><code>$ cd ./tamedia-hackdays; git checkout -b &lt;your_name&gt;</code></li>
         <li><code>$ cp ./whoami/harryfuecks.md ./whoami/&lt;your_name&gt;.md</code></li>
@@ -24,7 +24,7 @@
         <li><code>$ git add &lt;filenames&gt; # add the text file and the image</code></li>
         <li><code>$ git commit -am 'Add myself to whoami'</code></li>
         <li><code>$ git push -u origin your_name</code></li>
-        <li>Make a pull request at https://github.com/harryf/tamedia-hackdays/</li>
+        <li>Make a pull request to <a href="https://github.com/harryf/tamedia-hackdays/">https://github.com/harryf/tamedia-hackdays/</a></li>
     </ol>
 </section>
 
