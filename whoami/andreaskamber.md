@@ -1,7 +1,7 @@
 ---
 yourname: Andreas Kamber
 company: Tamedia
-role: Architecture Atlas
+role: BI architect
 contact: Slack or <andreas.kamber@tamedia.ch>
 resource: true
 categories: [whoami]
