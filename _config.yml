@@ -9,3 +9,9 @@ category-list: [whoami, hack]
 
 plugins:
   - jemoji
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
