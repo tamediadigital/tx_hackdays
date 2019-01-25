@@ -30,6 +30,4 @@ Hack-Relevant Skills
 
 Links
 -----
-- <https://github.com/harryf>
-- <https://twitter.com/hfuecks>
 - <https://www.linkedin.com/in/singer>
