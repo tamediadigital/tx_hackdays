@@ -30,12 +30,14 @@ Lets also write Welcome-Cards, or GoToHoliday-Cards. Any reason is good enough t
 
 We need
 ----------
-Developers, developers, developers ... in particular somebody who could do the front-end part, maybe even as a real app and not just a web-dummy. Also people interested in image-processing.
+- Developers, developers, developers ... 
+- in particular somebody who could do the front-end part, maybe even as a real app and not just a web-dummy
+- also people interested in image-processing.
 
 Participants
 ------------
-Tim Nonner
-You!
+- Tim Nonner
+- You!
 
 
 
