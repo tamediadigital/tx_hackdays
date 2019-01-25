@@ -26,16 +26,16 @@ to score the submitted messages by originality. Fitting cat-pictures should also
 Benefit
 -------
 A streamlined process to generate nice-looking GoodBye-Cards. Why only write GoodBye-Cards?
-Lets also write Welcome-Cards, or GoToHoliday-Cards. Any reason is good enough to smooth your workplace with sweet talk.
+Lets also write Welcome-Cards, or GoToHoliday-Cards. Any reason is good enough to smooth your workplace with sweet hand-written talk.
 
-We need ...
+We need
 ----------
 Developers, developers, developers ... in particular somebody who could do the front-end part, maybe even as a real app and not just a web-dummy. Also people interested in image-processing.
 
 Participants
 ------------
 Tim Nonner
-...
+You!
 
 
 
