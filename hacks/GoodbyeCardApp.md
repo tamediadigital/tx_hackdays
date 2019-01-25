@@ -36,7 +36,7 @@ We need
 
 Participants
 ------------
-- Tim Nonner
+- [Tim Nonner](/tamedia-hackdays/whoami/timnonner)
 - You!
 
 
