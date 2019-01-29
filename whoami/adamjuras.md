@@ -14,11 +14,7 @@ Adam Juras
 
 **Contact**: {{page.contact}}
 
-**Mission**
-Pump out some JS
-Keyboards on fire
-Let's build the next Facebook
-We're [looking to hire](/tamedia-hackdays/hacks/ProjectOne)
+**Mission**: Pump out some JS / Keyboards on fire / Let's build the next Facebook / We're [looking to hire](/tamedia-hackdays/hacks/ProjectOne)
 
 Hack-Relevant Skills
 --------------------
