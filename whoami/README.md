@@ -16,7 +16,7 @@
                   <td><a href="/tamedia-hackdays{{ page.url }}">{{ page.yourname }}</a></td>
                   <td>{{ page.company }}</td>
                   <td>{{ page.role }}</td>
-                  <td>{{ page.contact }}</td>
+                  <td>{{ page.contact | markdownify }}</td>
               </tr>
           {% endif %}   <!-- cat-match-p -->
         {% endfor %}  <!-- page-category -->
