@@ -2,7 +2,7 @@
 yourname: Ferdinand Niedermann
 company: Autoricardo
 role: Platform Engineer
-contact: [Slack](https://tamediatx.slack.com/team/UC1955TM1) or [<ferdinand.niedermann@autoricardo.ch>](mailto:ferdinand.niedermann@autoricardo.ch)
+contact: "[Slack](https://tamediatx.slack.com/team/UC1955TM1) or [<ferdinand.niedermann@autoricardo.ch>](mailto:ferdinand.niedermann@autoricardo.ch)"
 resource: true
 categories: [whoami]
 ---
