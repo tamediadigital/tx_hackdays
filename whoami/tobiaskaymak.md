@@ -10,7 +10,7 @@ categories: [whoami]
 Tobias Kaymak
 ============
 
-![tobias kaymak](/tamedia-hackdays/whoami/pics/tobiaskaymak.jpg "Tobias Kaymak"){:width="400px" align="right"}
+![tobias kaymak](/tamedia-hackdays/whoami/pics/tobiaskaymak.png "Tobias Kaymak"){:width="400px" align="right"}
 
 **Contact**: {{page.contact}}
 
