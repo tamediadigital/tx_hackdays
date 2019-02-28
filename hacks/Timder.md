@@ -39,6 +39,8 @@ Additional Inputs
 ------------
 Feel free to add your (constructive) input here.
 
+(From Harry): could be a "social network" for car sharing - if you know possible people that drive a similar commute to you, why not share a car? Even better a car with people you can have cool conversations with.
+
 
 Requirements
 ------------
