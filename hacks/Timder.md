@@ -1,6 +1,6 @@
 ---
 hackname: TIMDER
-quicksummary: Connecting travelers with others in order to encourage social interaction and reduce people starring at their phone (name similarity any brand is pure coincidence)
+quicksummary: Connecting travelers with others in order to encourage social interaction and reduce people starring at their phone (name similarity to any brand is pure coincidence)
 resource: true
 categories: [hack]
 ---
