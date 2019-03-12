@@ -18,7 +18,7 @@ PoliticalPartyAgreementCalculator
 
 **Are you not sure which political party to vote for?**
 
-Imagine there is there are two political parties: Cat Party and Mouse Party. 
+Imagine there are two political parties: Cat Party and Mouse Party. 
 
 Then as a possible voter you land into the Question And Answer Form and you have to reply
 to these two questions:
