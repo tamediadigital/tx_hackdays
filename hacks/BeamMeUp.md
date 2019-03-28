@@ -33,10 +33,10 @@ Could use help with...
 Links
 -----
 
-- https://beam.apache.org - The official Apache Beam website
-- https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101 - The world beyond batch, streaming 101
-- https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102 - The world beyond batch, streaming 102
-- https://ai.google/research/pubs/pub43864 - The Dataflow paper
+- [The official Apache Beam website](https://beam.apache.org)
+- [The world beyond batch, streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+- [The world beyond batch, streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
+- [The Dataflow paper](https://ai.google/research/pubs/pub43864)
 
 
 Who's Participating?
