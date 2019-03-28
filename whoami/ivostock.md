@@ -9,6 +9,7 @@ categories: [whoami]
 
 Ivo Stock
 =================
+![ivo stock](pics/ivostock.png "Ivo Stock")
 
 **Contact**: {{page.contact}}
 
