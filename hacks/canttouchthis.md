@@ -16,7 +16,7 @@ Why Do It?
 
 E-Field sensing is not very well explored and is quite portable and affordable compared to other gesture tracking technologies. 
 Combined with a real application (Zattoo's leanback/bigscreen app) this could result in a quite promising application targeting two complete different areas:
-- individual with motor skill disabilities (e.g. Locked-in Syndrome)
+- People with motor skill disabilities (e.g. Locked-in Syndrome)
 - rugged & interactive [Smart/Digital Signage](https://de.wikipedia.org/wiki/Digital_Signage) without exposing any conductive, capacitive or mechanical controls
 
 Requirements
