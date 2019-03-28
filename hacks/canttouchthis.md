@@ -44,7 +44,8 @@ Links
 
 Who's Participating?
 --------------------
-[Ivo Stock](https://harryf.github.io/tamedia-hackdays/whoami/ivostock.html)
-[Bastien Sachs](https://harryf.github.io/tamedia-hackdays/whoami/bastiensachs.html)
-[Pavel Verkhovskyi](https://harryf.github.io/tamedia-hackdays/whoami/pavelverkhovskyi.html)
-[Bogdan Plieshka](https://harryf.github.io/tamedia-hackdays/whoami/bogdanplieshka.html)
+
+- [Ivo Stock](https://harryf.github.io/tamedia-hackdays/whoami/ivostock.html)
+- [Bastien Sachs](https://harryf.github.io/tamedia-hackdays/whoami/bastiensachs.html)
+- [Pavel Verkhovskyi](https://harryf.github.io/tamedia-hackdays/whoami/pavelverkhovskyi.html)
+- [Bogdan Plieshka](https://harryf.github.io/tamedia-hackdays/whoami/bogdanplieshka.html)
