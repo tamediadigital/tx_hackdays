@@ -7,7 +7,7 @@ resource: true
 categories: [whoami]
 ---
 
-Harry Fuecks
+Dave 'CODEmind' Schöttl
 ============
 
 ![Dave Schöttl](/tamedia-hackdays/whoami/pics/davidschoettl.png "Dave Schöttl"){:width="400px" align="right"}
