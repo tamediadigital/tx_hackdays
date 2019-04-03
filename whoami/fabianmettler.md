@@ -14,7 +14,7 @@ Fabian Mettler
 
 **Contact**: {{page.contact}}
 
-**Mission**: tbd
+**Mission**: Planning to build a [simple container scheduler](/tamedia-hackdays/hacks/marina) with some batteries included.
 
 Hack-Relevant Skills
 --------------------
