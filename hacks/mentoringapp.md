@@ -27,15 +27,14 @@ Could use help with...
 ----------------------
 
 - The Google Calendar APIs
-- Possible integration with calendly
 
 
 Who's Participating?
 --------------------
 
 * [Alberto Congiu](/tamedia-hackdays/whoami/albertocongiu)
-* [Damir Cohadarevic](/tamedia-hackdays/whoami/damir.cohadarevic)
 * [Damir Alibegovic](/tamedia-hackdays/whoami/damiralibegovic)
+* [Damir Cohadarevic](/tamedia-hackdays/whoami/damir.cohadarevic)
 * Krzysztof Sakwerda
 * [Karol Masiak](/tamedia-hackdays/whoami/karolmasiak)
 * Michael Ehleben
