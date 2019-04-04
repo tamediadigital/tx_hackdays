@@ -7,5 +7,5 @@ categories: [hack]
 
 # Sell your car in only four steps
 
-Here's a presentation: https://docs.google.com/presentation/d/1ult92EYwANhWvJHreGFguKwFvO7PCO4o5gzQVlegwCA/edit?usp=sharing
+Here's a [presentation](https://docs.google.com/presentation/d/1ult92EYwANhWvJHreGFguKwFvO7PCO4o5gzQVlegwCA/edit?usp=sharing) with more details!
 
