@@ -29,15 +29,15 @@ Could use help with...
 - The Google Calendar APIs
 - Possible integration with calendly
 
-Links
------
-
-- https://calendly.com/
-- https://developer.calendly.com/docs
 
 Who's Participating?
 --------------------
 
+* [Alberto Congiu](/tamedia-hackdays/whoami/albertocongiu)
+* [Damir Cohadarevic](/tamedia-hackdays/whoami/damir.cohadarevic)
+* [Damir Alibegovic](/tamedia-hackdays/whoami/damiralibegovic)
+* Krzysztof Sakwerda
 * [Karol Masiak](/tamedia-hackdays/whoami/karolmasiak)
-* You?
+* Michael Ehleben
+
 
